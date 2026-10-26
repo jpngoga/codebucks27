@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CodeBucks</h1>
+<h1 align="center">Hi 👋, I'm Tech buddy</h1>
 <h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available😄
 </h3>
 
@@ -9,35 +9,29 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/code_bucks" target="blank"><img src="https://img.shields.io/twitter/follow/code_bucks?logo=twitter&style=for-the-badge" alt="code_bucks" /></a> </p> -->
 
-- 🔭 I’m currently working on [CodeBucks](https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA) (My YouTube Channel) and <a href="https://devdreaming.com" target="blank">DevDreaming</a> (A website where I can share more then videos).
+- 🔭 I’m currently working on [CodeBucks]([https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA](https://www.youtube.com/@billybilly2411)) (My YouTube Channel) and <a href="https://devdreaming.com" target="blank">funtech and musics</a> (A website where I can share more then videos).
 
-- 📝 I regularly write articles on <a href="https://devdreaming.com" target="blank">DevDreaming</a>
+- 📝 I regularly write articles on <a href="https://devdreaming.com" target="blank">relaxing and meditation playlist</a>
 
 - 💬 Ask me about **React, Redux, GraphQl, NextJS**
 
-- 📫 How to reach me **codebucks27@gmail.com**
+- 📫 How to reach me **jpngoga@gmail.com**
  
-</br>
-Latest Tutorials on Youtube👇: </br></br>
-
-🗯 <a href="https://youtu.be/OG71ARNRPT4" target="blank">How to host React application on Netlify ☁ for free!</a> </br>
-🗯 <a href="https://youtu.be/cT160dOzpGY" target="blank">🔥Build awesome landing page for Apple iPhone [ ThreeJS + ReactJS ]</a>
 
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+
 </br>
 
 <h3 align="left">▶ Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/codebucks" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
-  <a href="https://dev.to/codebucks" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/codebucks/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
-  <a href="https://instagram.com/code.bucks" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
-<a href="https://codepen.io/codebucks27" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>
-<a href="https://twitter.com/code_bucks" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
-<a href="https://fb.com/codebucks27" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
+  
+ 
+<a href="https://www.linkedin.com/in/ngojepabilly/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
+  <a href="https://instagram.com/ngojepabilly" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="code.bucks" height="30" width="40" /></a>
+<a href="https://codepen.io/jpngoga" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="codebucks27" height="30" width="40" /></a>
+<a href="https://x.com/jpngoga" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="code_bucks" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ngoga.jeanpaul/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="codebucks27" height="30" width="40" /></a>
 
 
 </p>
